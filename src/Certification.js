@@ -6,24 +6,28 @@ import CertificationDiv     from "./Certification.styled.js";
 class Certification extends Component {
   render() {
     let { title, value } = this.props.data;
-    return (
-      <CertificationDiv>
-        <h3>{title}</h3>
-        <table>
-          <tbody>
-            {value.map(x => (
-              <tr key={v4()}>
-                <td>{x.key}</td>
-                <td>
-                  <IconRArrow />
-                </td>
-                <td>{x.value}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </CertificationDiv>
-    );
+    if (title) {
+      return (
+        <CertificationDiv>
+          <h3>{title}</h3>
+          <table>
+            <tbody>
+              {value.map(x => (
+                <tr key={v4()}>
+                  <td>{x.key}</td>
+                  <td>
+                    <IconRArrow />
+                  </td>
+                  <td>{x.value}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </CertificationDiv>
+      );
+    } else {
+      return null;
+    }
   }
 }
 

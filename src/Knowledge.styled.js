@@ -24,7 +24,7 @@ const KnowledgeDiv = styled.div`
   padding-bottom: 30px;
   h3 {
     margin-bottom: 10px;
-    border-bottom: 2px solid #4300e4;
+    border-bottom: 2px solid #d2d0d0;
     padding: 0 0 5px 10px;
   }
   table {

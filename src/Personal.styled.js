@@ -13,7 +13,7 @@ const PersonalHeader = styled.div`
     }
   }
   h5.disclaimer {
-    background: #bdbdbd;
+    background: #bdbdbd61;
     padding: 10px;
     border-radius: 10px;
     margin: 10px 0 0 10px;
@@ -47,7 +47,7 @@ const PersonalHeader = styled.div`
       svg {
         font-size: 130%;
         margin-right: 3px;
-        color: #4300e4;
+        color: #a29fa9;
         transition: all 0.15s ease-in-out;
       }
       &:hover {

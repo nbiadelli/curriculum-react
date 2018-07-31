@@ -128,7 +128,7 @@ const renderCompanies = (x, toggleAll) => (
             <IconInfo /> {x.jobRole}
           </td>
           <td className="period">
-            <IconCalender /> {getWorkPeriod(x.period_from, x.period_to)}
+            <IconCalender style={{verticalAlign:"none"}} /> {getWorkPeriod(x.period_from, x.period_to)}
           </td>
         </tr>
       </tbody>

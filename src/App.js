@@ -74,7 +74,7 @@ const FloatButton = styled.div`
 const Content = styled.div`
   border-radius: 20px;
   padding: 12px;
-  box-shadow: 0px 2px 20px 1px rgba(0, 0, 0, 0.75);
+  box-shadow: 5px 6px 3px -1px rgba(0, 0, 0, 0.75);
   background-color: rgba(255, 255, 255, 0.8);
   margin: 20px auto;
   max-width: 900px;

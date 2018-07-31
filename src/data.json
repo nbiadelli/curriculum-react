@@ -1,16 +1,14 @@
 {
     "Personal": {
-        "Name": "Seu Nome da Silva Sauro",
-        "birthDate": "1991-04-09",
+        "Name": "Natalia Biadelli",
+        "birthDate": "1988-05-05",
         "birthDateSuffix": "anos",
-        "nationality": "brasileiro",
-        "civilStatus": "estado civil",
-        "address": "Rua dos Bobos, No Zero",
-        "cellphone": "11 5555-5555",
-        "email": "seunome@dominio.com",
-        "twitter": "@seunome",
-        "github": "seunome",
-        "disclaimer": "alguma coisa a declarar"
+        "nationality": "brasileira",
+        "civilStatus": "casada",
+        "cellphone": "11 95162-7706 ",
+        "email": "natalia.biadelli@gmail.com",
+        "github": "nbiadelli",
+        "disclaimer": "Esse currículo foi desenvolvido em React, o codigo está disponivel no github"
     },
     "Education": {
         "title": "Forma\u00e7\u00e3o",
@@ -18,96 +16,82 @@
             {
                 "key": "Ensino Superior",
                 "values": [
-                    "Escola XXX YYY ZZZ"
+                    " ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - Estácio - 5° Modulo"
                 ]
             },
             {
-                "key": "Escola X",
+                "key": "Udemy",
                 "values": [
-                    "Curso 1",
-                    "Curso 2"
+                    "Dominando Git e GitHub - Do iniciante ao expert",
+                    "React + Redux: Fundamentos e Duas Apps do ABSOLUTO ZERO!",
+                    "Vue JS"
                 ]
-            }
-        ]
+            },
+            {
+                "key": "Alura",
+                "values": [
+                    "Angula JS",
+                    "HTML5 e CSS3 I: Suas primeiras páginas da Web",
+                    "Sass e Compass: Descomplicando o CSS"
+                ]
+            },
+            {
+                "key": "Idioma",
+                "values": [
+                    "Yazigi - Inglês/ Yep 1"
+                ]
+            }        ]
     },
     "Knowledge": {
         "title": "Conhecimento",
         "value": [
             {
-                "topic": "Arquitetura",
+                "topic": "Tecnologias",
                 "subtopic": [
-                    { "key": "3DS Max", "value": 3 },
-                    { "key": "Maya", "value": 3 },
-                    { "key": "Blender", "value": 2 },
-                    { "key": "ZBrush", "value": 1 },
-                    { "key": "Vray", "value": 2 },
-                    { "key": "Corona", "value": 1 }
-                ]
-            },
-            {
-                "topic": "Linguagens",
-                "subtopic": [
-                    { "key": "Elixir", "value": 3 },
+                    { "key": "AngularJS", "value": 3 },
                     { "key": "Javascript", "value": 3 },
-                    { "key": "C#", "value": 3 },
-                    { "key": "SCSS", "value": 2 },
-                    { "key": "Python", "value": 1 }
+                    { "key": "VueJS", "value": 3 },
+                    { "key": "React", "value": 1 },
+                    { "key": "HTML5", "value": 3 },
+                    { "key": "SCSS", "value": 3 },
+                    { "key": "NodeJS", "value": 1 },
+                    { "key": "REST", "value": 3 },
+                    { "key": "Git", "value": 1 },
+                    { "key": "NPM", "value": 3 },
+                    { "key": "Yarn", "value": 1 },
+                    { "key": "Webpack", "value": 1 },
+                    { "key": "Mocha", "value": 2 }
                 ]
             }
         ]
     },
     "Certification": {
-        "title": "Certificado",
+        "title": "",
         "value": [
-            {
-                "key": "Certificado A4",
-                "value": "AAAAA em BBBBB e depois CCCCC"
-            }
+
         ]
     },
     "WorkExperience": {
         "title": "Experi\u00eancia",
         "value": [
             {
-                "company": "Empresa do Tio João",
-                "period_from": "2000-01-01",
-                "period_to": "2014-10-20",
-                "jobRole": "Fazedor de Coisas",
+                "company": "Mercado Eletrônico",
+                "period_from": "2016-03-01",
+                "period_to": "atualmente",
+                "jobRole": "Desenvolvedora Front-end",
                 "projects": [
                     {
-                      "title": "Projeto 1",
-                      "github": "seunome/projeto1",
-                      "description": "||ABBR|Abreviação|| Adipisicing omnis doloremque consequuntur minus obcaecati! Accusantium exercitationem reiciendis reprehenderit"
+                        "title": "ME Lite",
+                        "description": "Plataforma de cotação e pedidos, tecnologia usada: **HTML5**, **SASS**, **AngularJS**, consumo de APIS .NET e ultilizando ferramenta de controle de versão **GIT**."
                     },
                     {
-                      "title": "Projeto 2",
-                      "descriptions": [
-                          {
-                              "title": "Subprojeto 2.1",
-                              "description": "Adipisicing #ênfase# omnis doloremque *itálico* **negrito** consequuntur minus obcaecati! Accusantium exercitationem reiciendis reprehenderit"
-                          },
-                          {
-                              "title": "Subprojeto 2.2",
-                              "description": "Adipisicing <um link|http://www.google.com> abc <um link github|https://github.com/umlinkqualquer> dfg <um link youtube|https://www.youtube.com/embed/4V_eoR6r1Tw?autoplay=1> hij <um gif|http://i.imgur.com/jE2v0Sl.gif> omnis <uma imagem|https://torange.biz/photo/18/18672/18672-FX-6-0-12-6-8-0.jpg> doloremque consequuntur minus obcaecati! Accusantium exercitationem reiciendis reprehenderit"
-                          },
-                          {
-                              "title": "Subprojeto",
-                              "description": "Adipisicing omnis doloremque consequuntur minus obcaecati! Accusantium exercitationem reiciendis reprehenderit"
-                          }
-                      ]
+                        "title": "Marketplace",
+                        "description": "Plataforma de Compra, tecnologia usada: **HTML5**, **SASS**, **VueJS**, **NodeJS**,consumo de APIS .NET e ultilizando ferramenta de controle de versão **GIT**."
+                    },
+                    {
+                        "title": "ME Web",
+                        "description": "Plataforma de cotação e pedidos, tecnologia usada: **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **Jquery** e ultilizando ferramenta de controle de versão **GIT**."
                     }
-                ]
-            },
-            {
-               "company": "Loja do Tio Pedro",
-                "period_from": "2015-01-01",
-                "period_to": "agora",
-                "jobRole": "Eng. Contas",
-                "projects": [
-                  {
-                    "title": "Projeto 1",
-                    "description": "Adipisicing omnis doloremque consequuntur minus obcaecati! Accusantium exercitationem reiciendis reprehenderit"
-                  }
                 ]
             }
         ]
