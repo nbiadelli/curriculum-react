@@ -2,7 +2,7 @@
   "name": "cv-rodstu",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rod-stuchi.github.io/cv",
+  "homepage": "http://nbiadelli.github.io",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
