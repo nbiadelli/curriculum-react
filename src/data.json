@@ -48,19 +48,26 @@
             {
                 "topic": "Tecnologias",
                 "subtopic": [
-                    { "key": "AngularJS", "value": 3 },
                     { "key": "Javascript", "value": 3 },
+                    { "key": "AngularJS", "value": 3 },
                     { "key": "VueJS", "value": 3 },
-                    { "key": "React", "value": 1 },
+                    { "key": "VuexJs", "value": 3 },
+                    { "key": "React", "value": 3 },
+                    { "key": "MobX", "value": 3 },
+                    { "key": "Redux", "value": 2},
+                    { "key": "Redux-Sagas", "value": 2},
                     { "key": "HTML5", "value": 3 },
                     { "key": "SCSS", "value": 3 },
-                    { "key": "NodeJS", "value": 1 },
+                    { "key": "Styled-Components", "value": 3 },
+                    { "key": "NodeJS", "value": 3},
                     { "key": "REST", "value": 3 },
                     { "key": "Git", "value": 1 },
                     { "key": "NPM", "value": 3 },
-                    { "key": "Yarn", "value": 1 },
-                    { "key": "Webpack", "value": 1 },
-                    { "key": "Mocha", "value": 2 }
+                    { "key": "Yarn", "value": 2},
+                    { "key": "Webpack", "value": 2},
+                    { "key": "Mocha", "value": 2 },
+                    { "key": "Jest", "value": 2 },
+                    { "key": "GraphQL", "value": 2 }
                 ]
             }
         ]
